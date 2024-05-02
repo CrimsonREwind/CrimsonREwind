@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayush Verma and I'm a AI/ML Enthusiast, from India</h2>
+<h2 align="left">Hi 👋! My name is Ayush Verma, and I'm an AI/ML enthusiast from India.</h2>
 
 ###
 
