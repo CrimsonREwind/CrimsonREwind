@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayush Verma, and I'm an AI/ML enthusiast from India.</h2>
+<h2 align="left">Hi 👋! My name is Ayush Verma, and I'm an AI/ML enthusiast from India.I'm passionate about exploring the intersection of technology and innovation, and I'm excited to share my projects and learnings on GitHub. Check out my repos for AI/ML experiments, tutorials, and more!</h2>
 
 ###
 
