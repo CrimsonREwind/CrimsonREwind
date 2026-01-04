@@ -18,13 +18,29 @@ I enjoy transforming complex datasets into actionable insights and building tool
 
 ## Technical Skills
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, SQL |
-| **Data Science & ML** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
-| **Databases & BI** | SQL, NoSQL, Power BI, IBM Cognos, SPSS Modeler |
-| **Developer Tools** | Git, Docker, VS Code, Jupyter Notebook, Google Colab |
-| **Core Concepts** | Data Structures & Algorithms, SDLC, Data Visualization |
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Data Science & ML**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases & BI**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=flat&logo=ibm&logoColor=white)
+
+**Developer Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -39,9 +55,6 @@ Content-based recommendation engine using TF-IDF and cosine similarity on 10,000
 ### [Image Organizer](https://ayushworks.dev/projects/image-organizer/)
 Face-recognition-based image organization system that automated photo sorting, reducing manual organization time by ~80%. Built with Python backend and React frontend.
 
-### Superstore Analysis Dashboard
-Interactive Power BI dashboard analyzing sales trends, regional performance, and key business metrics.
-
 ---
 
 ## Current Focus
@@ -49,15 +62,6 @@ Interactive Power BI dashboard analyzing sales trends, regional performance, and
 - Deepening expertise in deep learning and neural network architectures
 - Exploring MLOps practices for production-grade model deployment
 - Contributing to open-source data science tooling
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrimsonREwind&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonREwind&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
